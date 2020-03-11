@@ -1,6 +1,6 @@
-# Luring of adversarial perturbations
+# Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks
 
-This repository contains pretrained models and python scripts to reproduce results presented in the article Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks](https://arxiv.org/abs/1909.12741).
+This repository contains pretrained models and python scripts to reproduce results presented in the article [Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks](https://arxiv.org/abs/1909.12741).
 
 
 ## Environment and libraries
