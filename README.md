@@ -3,7 +3,7 @@
 This repository contains pretrained models and python scripts to reproduce results presented in the article:
 
 **Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks** <br/>
-**Rémi Bernhard**, Pierre-Alain Moellic, Jean-Max Dutertre </br>
+Rémi Bernhard , Pierre-Alain Moellic and Jean-Max Dutertre </br>
 IEEE International Conference on Cyberworlds (CW), 2019  </br>
 https://arxiv.org/abs/1909.12741 <br/>
 **_Best Paper Award_**
