@@ -6,7 +6,7 @@ This repository contains pretrained models and python scripts to reproduce resul
 *Rémi Bernhard*, Pierre-Alain Moellic, Jean-Max Dutertre </br>
 IEEE International Conference on Cyberworlds (CW), 2019  </br>
 https://arxiv.org/abs/1909.12741 <br/>
-<u> Best Paper Award </u>
+__Best Paper Award__
 
 
 ## Environment and libraries
