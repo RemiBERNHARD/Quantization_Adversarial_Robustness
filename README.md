@@ -28,7 +28,7 @@ The following version of some Python packages are necessary:
 
 ## Files
 
-In order to get the SVHN data set (to have the same training, validation and testing tests, as well as to run attacks), and all pretrained models, download the "models" and "SVHN_data" folders from https://drive.google.com/open?id=167Xo9DNRUCdVtv3bsJdo7kFuLPa1EQrl and place them in the same directory as all other files.
+In order to get the SVHN data set (to have the same training, validation and testing tests, as well as to run attacks), and all pretrained models, download the "models" and "SVHN_data" folders from https://drive.google.com/open?id=1wEwHL_6gIS3Dpkh9R3UqL1lM828NdvSV and place them in the same directory as all other files.
 
 
 ### Model files
