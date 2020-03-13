@@ -34,10 +34,10 @@ backend._LEARNING_PHASE = tf.constant(0)
 backend.set_learning_phase(0)
 
 ####Load data set
-X_train = np.load("X_train.npy")
-X_test = np.load("X_test.npy")
-y_train = np.load("y_train.npy")
-y_test = np.load("y_test.npy")
+X_train = np.load("SVHN_data/X_train.npy")
+X_test = np.load("SVHN_data/X_test.npy")
+y_train = np.load("SVHN_data/y_train.npy")
+y_test = np.load("SVHN_data/y_test.npy")
 
 y_train[y_train==10]=0
 y_test[y_test==10]=0
