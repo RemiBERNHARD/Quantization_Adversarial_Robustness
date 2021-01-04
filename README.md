@@ -33,6 +33,8 @@ In order to get the SVHN data set (to have the same training, validation and tes
 
 ### Model files
     
+Downloas the "models" repository from https://drive.google.com/open?id=1wEwHL_6gIS3Dpkh9R3UqL1lM828NdvSV and place them in the same directory as all other files.
+
 The "models" repository contains the pretrained models for the datasets SVHN and CIFAR10. As an example, on CIFAR10:    
 
 * models/CIFAR10_float.h5 is the full-precision (32-bit floating point) classifier
