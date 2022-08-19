@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 10 16:55:12 2020
-
-@author: rb258034
-"""
-
 import os
 import sys
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"   # see issue #152
