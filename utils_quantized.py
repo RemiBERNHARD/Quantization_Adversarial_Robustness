@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 11 08:07:47 2020
-
-@author: rb258034
-"""
-
 import sys
 sys.path.insert(1, '/layers')
 
