@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 27 09:55:25 2019
-
-@author: rb258034
-"""
-
 import sys
 import os
 import tensorflow as tf
